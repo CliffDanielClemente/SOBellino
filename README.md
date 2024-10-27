@@ -18,9 +18,11 @@ In order for VoiceFlow to get the data from the knowledge graph in metaphacts, a
 
 ## Prerequisites
 
+- Git: https://github.com/CliffDanielClemente/SOBellino.git
+
 - VoiceFlow: https://creator.voiceflow.com/workspace/accept-invite?inviteToken=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..fUX2Sck2DM_XoU0s.uThStOxqIq7_I4OsvnK4TcGwtkyWWTNLeI80S9E8d1xECMeya29qCai_RuLy22Uz9PiIz95t9MLLNKfcPl0NaPalnTpFUcR1b0YmjFop6sKmuH87ci0.mIJ6JY7Pi6Gn2sDFo3Hrfw
 
-- Metaphacts:
+- Metaphacts: ZIP-File in Teams submission or git repository
 
 
 
